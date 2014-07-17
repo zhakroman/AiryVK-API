@@ -13,7 +13,7 @@ VK API library
 ```
 <script type="text/javascript"> 
  VK.init(function() {
-   var req = new vk()
+   var req = new vk();
        req.users("get").photos("getAlbums")
         .filter({title: /qwqw|test/i}).res(function(data){
            console.log( data )  // data contains all albums, filtered albums, and user data.    
