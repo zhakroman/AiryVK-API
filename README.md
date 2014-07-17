@@ -1,4 +1,5 @@
 AiryVK-API
 ==========
 
-VK API library
+VK API <b>library</b>
+
