@@ -5,8 +5,8 @@ VK API library
 ## Installation
 ### Put this into the head section: 
 ```
-  <script src="//vk.com/js/api/xd_connection.js?2";  type="text/javascript"></script>
-  <script src="airyvk-api.min.js?2";  type="text/javascript></script>;
+  <script src="//vk.com/js/api/xd_connection.js?2"  type="text/javascript"></script>
+  <script src="airyvk-api.min.js?2"  type="text/javascript></script>;
 ```
 ### Get started 
 
