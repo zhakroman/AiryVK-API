@@ -1,0 +1,1 @@
+ var req = new vk();
